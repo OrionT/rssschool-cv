@@ -5,11 +5,9 @@
 > Minsk, Belarus, +375259111012
 > vadzim.sasonkin@gmail.com
 
-> LinkedIn
-> https://www.linkedin.com/in/vadzim-sasonkin/
+> [LinkedIn](https://www.linkedin.com/in/vadzim-sasonkin/)
 
-> Github
-> https://github.com/OrionT
+> [Github](https://github.com/OrionT)
 
 ## Profile
 
