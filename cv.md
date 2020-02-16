@@ -26,9 +26,9 @@ Front-end developer with extensive experience in programming, service and produc
 
 #### Languages
 
-- English: upper-intermediate
-- Belorussian: native
-- Russian: native
+- English: Upper-Intermediate
+- Belorussian: Native
+- Russian: Native
 
 ## Employment history
 
