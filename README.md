@@ -1,3 +1,3 @@
 # rssschool-cv
 
-https://your-github-account.github.io/rsschool-cv/cv
+https://OrionT.github.io/rsschool-cv/cv
